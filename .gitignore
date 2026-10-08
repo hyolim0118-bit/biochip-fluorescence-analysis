@@ -1,4 +1,10 @@
 .venv/
+venv/
 __pycache__/
 *.pyc
+*.tif
+*.tiff
+*.gpr
 results/
+output/
+.env
